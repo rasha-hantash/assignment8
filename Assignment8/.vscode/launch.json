@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FoodBankPatrons",
+            "request": "launch",
+            "mainClass": "FoodBankPatrons",
+            "projectName": "Assignment8"
+        }
+    ]
+}

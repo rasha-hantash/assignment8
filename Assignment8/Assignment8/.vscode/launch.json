@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FoodBankPatrons",
+            "request": "launch",
+            "mainClass": "Assignment8.FoodBankPatrons",
+            "projectName": "Assignment8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RaceTrack",
+            "request": "launch",
+            "mainClass": "Assignment8.RaceTrack",
+            "projectName": "Assignment8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Assignment8.App",
+            "projectName": "Assignment8"
+        }
+    ]
+}
